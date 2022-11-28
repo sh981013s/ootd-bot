@@ -23,6 +23,9 @@
   },
   "dependencies": {
     "discord.js": "^12.5.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "instagram-scraping": "^1.0.17",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.3.0"
   }
 }
