@@ -1,0 +1,26 @@
+{
+  "name": "ootd-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".prettier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh981013s/ootd-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sh981013s/ootd-bot/issues"
+  },
+  "homepage": "https://github.com/sh981013s/ootd-bot#readme",
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
